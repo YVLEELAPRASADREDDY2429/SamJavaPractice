@@ -11,6 +11,6 @@ public class Lab001 {
          * kill
          */
 
-        //package (folder) -> Class -> Mainmethod ->Statements
+        //package (folder) -> Class -> Main method ->Statements
     }
 }
